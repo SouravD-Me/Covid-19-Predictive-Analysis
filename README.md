@@ -3,19 +3,19 @@
 This repository contains the Twitter data (training) on Covid-19 initially from early 2020 (March-June). It is a multi-head dataset with the following parameters:
 
    ⦁ *Serial No* <br>
-   ⦁ *Date of the tweet(s)*
-   ⦁ *Time of the tweet(s) in IST*
-   ⦁ *Source link*
-   ⦁ *User ID*
-   ⦁ *Language*
-   ⦁ *Retweet counts*
-   ⦁ *Hashtags (only related to Covid-19)*
-   ⦁ *User mentions (if any)*
-   ⦁ *Place of the tweet(s)*
-   ⦁ *Tweet body*
+   ⦁ *Date of the tweet(s)* <br>
+   ⦁ *Time of the tweet(s) in IST* <br>
+   ⦁ *Source link* <br>
+   ⦁ *User ID* <br>
+   ⦁ *Language* <br>
+   ⦁ *Retweet counts* <br>
+   ⦁ *Hashtags (only related to Covid-19)* <br>
+   ⦁ *User mentions (if any)* <br>
+   ⦁ *Place of the tweet(s)* <br>
+   ⦁ *Tweet body* <br>
 
 <br>        
-This dataset is part of the publication entitled:
+This dataset is part of the publication entitled: <br>
 
 > Das, S., & Kolya, A. K. (2021). Predicting the pandemic: sentiment evaluation and predictive analysis from large-scale tweets on Covid-19 by deep convolutional neural network. Evolutionary Intelligence, 1-22.
 
