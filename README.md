@@ -2,20 +2,21 @@
 
 This repository contains the Twitter data (training) on Covid-19 initially from early 2020 (March-June). It is a multi-head dataset with the following parameters:
 
-          ⦁ *Serial No.*    
-          ⦁ *Date of the tweet(s)*
-          ⦁ *Time of the tweet(s) in IST*
-          ⦁ *Source link*
-          ⦁ *User ID*
-          ⦁ *Language*
-          ⦁ *Retweet counts*
-          ⦁ *Hashtags (only related to Covid-19)*
-          ⦁ *User mentions (if any)*
-          ⦁ *Place of the tweet(s)*
-          ⦁ *Tweet body*
+   ⦁ *serial No*
+   ⦁ *Date of the tweet(s)*
+   ⦁ *Time of the tweet(s) in IST*
+   ⦁ *Source link*
+   ⦁ *User ID*
+   ⦁ *Language*
+   ⦁ *Retweet counts*
+   ⦁ *Hashtags (only related to Covid-19)*
+   ⦁ *User mentions (if any)*
+   ⦁ *Place of the tweet(s)*
+   ⦁ *Tweet body*
 
 <br>        
 This dataset is part of the publication entitled:
+<br>
 
  > Das, S., & Kolya, A. K. (2021). Predicting the pandemic: sentiment evaluation and predictive analysis from large-scale tweets on Covid-19 by deep convolutional neural network. Evolutionary Intelligence, 1-22.
 <br>
@@ -49,9 +50,9 @@ open-source text corpora.
 
 The paper explaining this dataset and the detailed experimental approach can be *downloaded* from [Springer Nature SharedIt](https://rdcu.be/chI8I) or [Evolutionary Intelligence](https://link.springer.com/content/pdf/10.1007/s12065-021-00598-7.pdf).
 
-<br?
+<br>
 
-Please cite the following paper if you utilize the dataset in your research:
+**Please cite the following paper if you utilize the dataset in your research:**
 
 > @article{das2021predicting,
   title={Predicting the pandemic: sentiment evaluation and predictive analysis from large-scale tweets on Covid-19 by deep convolutional neural network},
