@@ -19,7 +19,6 @@ This dataset is part of the publication entitled:
 
  > Das, S., & Kolya, A. K. (2021). Predicting the pandemic: sentiment evaluation and predictive analysis from large-scale tweets on Covid-19 by deep convolutional neural network.  
  Evolutionary Intelligence, 1-22.
-
 <br>
 
 ## Dataset Creation
