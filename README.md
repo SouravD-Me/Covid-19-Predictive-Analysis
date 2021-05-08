@@ -48,3 +48,16 @@ open-source text corpora.
 ## Paper
 
 The paper explaining this dataset and the detailed experimental approach can be *downloaded* from [Springer Nature SharedIt](https://rdcu.be/chI8I) or [Evolutionary Intelligence](https://link.springer.com/content/pdf/10.1007/s12065-021-00598-7.pdf).
+
+<br?
+
+Please cite the following paper if you utilize the dataset in your research:
+
+> @article{das2021predicting,
+  title={Predicting the pandemic: sentiment evaluation and predictive analysis from large-scale tweets on Covid-19 by deep convolutional neural network},
+  author={Das, Sourav and Kolya, Anup Kumar},
+  journal={Evolutionary Intelligence},
+  pages={1--22},
+  year={2021},
+  publisher={Springer}
+}
