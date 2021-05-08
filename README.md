@@ -17,7 +17,7 @@ This repository contains the Twitter data (training) on Covid-19 initially from 
 <br>        
 This dataset is part of the publication entitled: <br>
 
-> Das, S., & Kolya, A. K. (2021). Predicting the pandemic: sentiment evaluation and predictive analysis from large-scale tweets on Covid-19 by deep convolutional neural network. Evolutionary Intelligence, 1-22.
+**Das, S., Kolya, A.K. Predicting the pandemic: sentiment evaluation and predictive analysis from large-scale tweets on Covid-19 by deep convolutional neural network. Evol. Intel. (2021). https://doi.org/10.1007/s12065-021-00598-7**
 
 ## Dataset Creation
 
