@@ -16,17 +16,17 @@ This repository contains the Twitter data (training) on Covid-19 initially from 
         
 This dataset is part of the publication entitled:
 
- Das, S., & Kolya, A. K. (2021). Predicting the pandemic: sentiment evaluation and predictive analysis from large-scale tweets on Covid-19 by deep convolutional neural network.  
+ > Das, S., & Kolya, A. K. (2021). Predicting the pandemic: sentiment evaluation and predictive analysis from large-scale tweets on Covid-19 by deep convolutional neural network.  
  Evolutionary Intelligence, 1-22.
             
 ## Dataset Creation
 
-Twitter is probably the most sophisticated and popular platform for live streaming textual data. Mostly because of its “micro-blogging” nature and short targeted texts, the data- which are scrolled from Twitter is full of raw data which can further be processed into insightful information. While Twitter API only lets developers to stream 1–2% number of total- tweets per hour, the scale of the Twitter user’s community is large enough to gather a large source of the corpus on any given topic. From 7th November 2017, Twitter expanded its- character limits to 280 characters per tweet. Hence the target probability of tweet collection is now higher than ever before. For March and April 2020, we collected tweets- exclusively on Coronavirus or Covid-19. Also, we collected parallel tweets after Indian Prime Minister Modi’s live speech on 24.03.2020 and US President Donald Trump’s press briefing on 02.04.2020, to gain valuable mass opinion insight on the given topic. We scroll our tweets based on certain parameters for scaling, naming tweet id, the original tweet body,- retweet count, location or region, date, and time.
+Twitter is probably the most sophisticated and popular platform for live streaming textual data. Mostly because of its “micro-blogging” nature and short targeted texts, the data which are scrolled from Twitter is full of raw data which can further be processed into insightful information. While Twitter API only lets developers to stream 1–2% number of total tweets per hour, the scale of the Twitter user’s community is large enough to gather a large source of the corpus on any given topic. From 7th November 2017, Twitter expanded its character limits to 280 characters per tweet. Hence the target probability of tweet collection is now higher than ever before. For March and April 2020, we collected tweets exclusively on Coronavirus or Covid-19. Also, we collected parallel tweets after Indian Prime Minister Modi’s live speech on 24.03.2020 and US President Donald Trump’s press briefing on 02.04.2020, to gain valuable mass opinion insight on the given topic. We scroll our tweets based on certain parameters for scaling, naming tweet id, the original tweet body, retweet count, location or region, date, and time.
      
 ## Abstract
 
-Engaging deep neural networks for textual sentiment analysis is an extensively practiced domain of research. Textual sentiment
-classification harnesses the full computational potential of deep learning models. Typically, these research works are
+<div align="justify">
+Engaging deep neural networks for textual sentiment analysis is an extensively practiced domain of research. Textual sentiment classification harnesses the full computational potential of deep learning models. Typically, these research works are
 carried either with a popular open-source data corpus, or self-extracted short phrase texts from Twitter, Reddit, or webscrapped
 text data from other resources. Rarely do we see a large amount of data on a current ongoing event is being collected
 and cultured further. Also, an even more complex task would be to model the data from a currently ongoing event, not only
