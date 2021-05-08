@@ -49,7 +49,7 @@ open-source text corpora.
           
 ## Paper
 
-The paper explaining this dataset and the detailed experimental approach can be *downloaded* from [Springer Nature SharedIt](https://rdcu.be/chI8I) or [Evolutionary Intelligence](https://link.springer.com/content/pdf/10.1007/s12065-021-00598-7.pdf).
+The full paper explaining this dataset and the detailed experimental approach can be *downloaded* from [Springer Nature SharedIt](https://rdcu.be/chI8I) or [Evolutionary Intelligence](https://link.springer.com/content/pdf/10.1007/s12065-021-00598-7.pdf).
 
 <br>
 
