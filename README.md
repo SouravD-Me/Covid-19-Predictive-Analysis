@@ -17,8 +17,7 @@ This repository contains the Twitter data (training) on Covid-19 initially from 
 <br>        
 This dataset is part of the publication entitled:
 
- > Das, S., & Kolya, A. K. (2021). Predicting the pandemic: sentiment evaluation and predictive analysis from large-scale tweets on Covid-19 by deep convolutional neural network.  
- Evolutionary Intelligence, 1-22.
+ > Das, S., & Kolya, A. K. (2021). Predicting the pandemic: sentiment evaluation and predictive analysis from large-scale tweets on Covid-19 by deep convolutional neural network. Evolutionary Intelligence, 1-22.
 <br>
 
 ## Dataset Creation
@@ -44,3 +43,8 @@ obtain an accuracy of 90.67%. Finally, we provide a statistical-based future pre
 only our model outperforms several previous state-of-art experiments in overall sentiment accuracy comparison for similar
 tasks, but it also maintains a throughout performance stability among all the test cases when tested with several popular
 open-source text corpora.
+          
+          
+## Paper
+
+The paper explaining this dataset and the detailed experimental approach can be *downloaded* from [Springer Nature SharedIt](https://rdcu.be/chI8I) or [Evolutionary Intelligence](https://link.springer.com/content/pdf/10.1007/s12065-021-00598-7.pdf).
