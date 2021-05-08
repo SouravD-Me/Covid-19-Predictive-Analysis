@@ -22,7 +22,7 @@ This dataset is part of the publication entitled:
 
 <br>
 
-**ImportantP:** Download both the *ZIP* and *Z01* files, place them within the same folder, and extract the *ZIP* file only. The size of the extracted dataset is **84 MB**. 
+_**Important:** Download both the *ZIP* and *Z01* files, place them within the same folder, and extract the *ZIP* file only. The size of the extracted dataset is **84 MB**._ 
 
 <br>
 
