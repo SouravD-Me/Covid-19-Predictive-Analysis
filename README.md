@@ -2,17 +2,17 @@
 
 This repository contains the Twitter data (training) on Covid-19 initially from early 2020 (March-June). It is a multi-head dataset with the following parameters:
 
-          -Serial No.
-          -Date of the tweet(s)
-          -Time of the tweet(s) in IST
-          -Source link
-          -User ID
-          -Language
-          -Retweet counts
-          -Hashtags (only related to Covid-19)
-          -User mentions (if any)
-          -Place of the tweet(s)
-          -Tweet body
+          - *Serial No.*
+          - *Date of the tweet(s)*
+          - *Time of the tweet(s) in IST*
+          - *Source link*
+          - *User ID*
+          - *Language*
+          - *Retweet counts*
+          - *Hashtags (only related to Covid-19)*
+          - *User mentions (if any)*
+          - *Place of the tweet(s)*
+          - *Tweet body*
         
 This dataset is part of the publication entitled:
 
