@@ -1,6 +1,6 @@
 # Covid-19-Predictive-Analysis
 
-This repository contains the Twitter data (training) on Covid-19 initially from early 2020 (March-June). It is a multi-head dataset with the following parameters:
+This repository contains the Twitter data (validation only) on Covid-19 initially from early 2020 (March-June). It is a multi-head dataset with the following parameters:
 
    ⦁ *Serial No* <br>
    ⦁ *Date of the tweet(s)* <br>
