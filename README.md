@@ -57,7 +57,7 @@ The full paper explaining this dataset and the detailed experimental approach ca
 
 <br>
 
-⦁ **Please cite the following paper if you utilize the dataset in your research:**
+⦁ **Please cite the following paper if you utilize this dataset in your research:**
 
 > @article{das2021predicting,
   title={Predicting the pandemic: sentiment evaluation and predictive analysis from large-scale tweets on Covid-19 by deep convolutional neural network},
